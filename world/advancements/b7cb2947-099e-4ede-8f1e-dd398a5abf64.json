@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-07-16 12:41:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-15 12:42:42 -0400"
@@ -1453,7 +1459,8 @@
       "cooked_beef": "2022-07-15 12:51:56 -0400",
       "apple": "2022-07-15 19:05:03 -0400",
       "bread": "2022-07-15 19:26:02 -0400",
-      "salmon": "2022-07-15 13:43:53 -0400"
+      "salmon": "2022-07-15 13:43:53 -0400",
+      "melon_slice": "2022-07-16 12:52:56 -0400"
     },
     "done": false
   },
