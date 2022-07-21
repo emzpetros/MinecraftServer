@@ -1,51 +1,50 @@
-[18:06:42] [ServerMain/INFO]: Building unoptimized datafixer
-[18:06:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:06:43] [ServerMain/INFO]: Loaded 7 recipes
-[18:06:44] [ServerMain/INFO]: Loaded 1179 advancements
-[18:06:44] [Server thread/INFO]: Starting minecraft server version 1.19
-[18:06:44] [Server thread/INFO]: Loading properties
-[18:06:44] [Server thread/INFO]: Default game type: SURVIVAL
-[18:06:44] [Server thread/INFO]: Generating keypair
-[18:06:44] [Server thread/INFO]: Starting Minecraft server on *:25560
-[18:06:44] [Server thread/INFO]: Using default channel type
-[18:06:45] [Server thread/INFO]: Preparing level "world"
-[18:06:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:06:47] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[18:06:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:06:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:06:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:06:47] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:06:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:06:48] [Worker-Main-11/INFO]: Preparing spawn area: 17%
-[18:06:48] [Server thread/INFO]: Time elapsed: 3469 ms
-[18:06:48] [Server thread/INFO]: Done (3.602s)! For help, type "help"
-[18:08:42] [User Authenticator #1/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
-[18:08:42] [Server thread/INFO]: TacoBelle321[/127.124.214.173:56174] logged in with entity id 120 at (-154.5, 63.0, -0.5)
-[18:08:42] [Server thread/INFO]: TacoBelle321 joined the game
-[18:08:42] [Server thread/WARN]: UUID of added entity already exists: bmc['Bat'/136, l='ServerLevel[world]', x=-187.20, y=-4.54, z=28.64]
-[18:08:42] [Server thread/WARN]: UUID of added entity already exists: brb['Skeleton'/138, l='ServerLevel[world]', x=-183.32, y=8.00, z=40.51]
-[18:14:42] [Server thread/INFO]: TacoBelle321 lost connection: Timed out
-[18:14:42] [Server thread/INFO]: TacoBelle321 left the game
-[18:22:15] [User Authenticator #2/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
-[18:22:15] [Server thread/INFO]: TacoBelle321[/127.124.214.173:63265] logged in with entity id 1184 at (-145.6279895413887, 63.0, -2.6491125663189425)
-[18:22:15] [Server thread/INFO]: TacoBelle321 joined the game
-[19:36:55] [User Authenticator #3/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
-[19:36:55] [Server thread/INFO]: Thaliazhu[/127.143.20.201:65149] logged in with entity id 14177 at (-153.5, 63.5625, -0.5)
-[19:36:55] [Server thread/INFO]: Thaliazhu joined the game
-[19:37:16] [Server thread/INFO]: <Thaliazhu> what are you doing with my minecarts??
-[19:37:34] [Server thread/INFO]: <TacoBelle321> what do you mean?
-[19:46:14] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
-[19:46:14] [Server thread/INFO]: Thaliazhu left the game
-[20:15:42] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
-[20:15:42] [Server thread/INFO]: TacoBelle321 left the game
-[20:36:44] [User Authenticator #4/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
-[20:36:44] [Server thread/INFO]: TacoBelle321[/127.124.214.173:56694] logged in with entity id 21495 at (-141.5, 63.0, 7.5)
-[20:36:44] [Server thread/INFO]: TacoBelle321 joined the game
-[21:38:51] [Server thread/INFO]: TacoBelle321 has made the advancement [Voluntary Exile]
-[22:00:39] [User Authenticator #5/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
-[22:00:39] [Server thread/INFO]: Thaliazhu[/127.143.20.201:63971] logged in with entity id 42243 at (-142.5, 63.0, 8.5)
-[22:00:39] [Server thread/INFO]: Thaliazhu joined the game
-[22:36:08] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
-[22:36:08] [Server thread/INFO]: TacoBelle321 left the game
-[22:36:15] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
-[22:36:15] [Server thread/INFO]: Thaliazhu left the game
+[15:20:35] [ServerMain/INFO]: Building unoptimized datafixer
+[15:20:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:20:37] [ServerMain/INFO]: Loaded 7 recipes
+[15:20:37] [ServerMain/INFO]: Loaded 1179 advancements
+[15:20:38] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:20:38] [Server thread/INFO]: Loading properties
+[15:20:38] [Server thread/INFO]: Default game type: SURVIVAL
+[15:20:38] [Server thread/INFO]: Generating keypair
+[15:20:38] [Server thread/INFO]: Starting Minecraft server on *:25563
+[15:20:38] [Server thread/INFO]: Using default channel type
+[15:20:38] [Server thread/INFO]: Preparing level "world"
+[15:20:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:20:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:20:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:20:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:20:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:20:41] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:20:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:20:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:20:42] [Worker-Main-7/INFO]: Preparing spawn area: 34%
+[15:20:43] [Server thread/INFO]: Time elapsed: 3912 ms
+[15:20:43] [Server thread/INFO]: Done (4.074s)! For help, type "help"
+[15:23:18] [User Authenticator #1/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
+[15:23:18] [Server thread/INFO]: TacoBelle321[/127.124.214.173:58260] logged in with entity id 22 at (404.3777969905338, 62.9375, -422.48233325817193)
+[15:23:18] [Server thread/INFO]: TacoBelle321 joined the game
+[16:17:06] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
+[16:17:06] [Server thread/INFO]: TacoBelle321 left the game
+[16:27:01] [User Authenticator #2/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
+[16:27:01] [Server thread/INFO]: TacoBelle321[/127.124.214.173:58568] logged in with entity id 12820 at (383.69999998807907, 64.0, -363.2422557254445)
+[16:27:01] [Server thread/INFO]: TacoBelle321 joined the game
+[17:48:29] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
+[17:48:29] [Server thread/INFO]: TacoBelle321 left the game
+[20:16:08] [User Authenticator #3/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
+[20:16:08] [Server thread/INFO]: TacoBelle321[/127.124.214.173:50447] logged in with entity id 32941 at (-142.969311725565, 63.0, 7.540873890898895)
+[20:16:08] [Server thread/INFO]: TacoBelle321 joined the game
+[21:23:51] [Server thread/INFO]: TacoBelle321 has made the advancement [Cover Me with Diamonds]
+[21:36:04] [User Authenticator #4/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
+[21:36:04] [Server thread/INFO]: Thaliazhu[/127.143.20.201:52429] logged in with entity id 49242 at (-140.5, 63.0, 9.5)
+[21:36:04] [Server thread/INFO]: Thaliazhu joined the game
+[21:36:24] [Server thread/INFO]: <TacoBelle321> hi o/
+[21:36:37] [Server thread/INFO]: <Thaliazhu> hi babe :)
+[21:50:07] [Server thread/INFO]: Thaliazhu has made the advancement [What a Deal!]
+[22:15:45] [Server thread/WARN]: Thaliazhu moved too quickly! -1.9600689443956867,-0.0625,-9.919788101041604
+[22:15:45] [Server thread/WARN]: TacoBelle321 moved too quickly! 8.949538475617373,-0.7287758923075103,4.55191599730199
+[22:15:59] [Server thread/INFO]: Thaliazhu has made the advancement [Cover Me with Diamonds]
+[22:31:52] [Server thread/WARN]: Boat (vehicle of Thaliazhu) moved wrongly! 0.2857115442702707
+[22:32:34] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
+[22:32:34] [Server thread/INFO]: TacoBelle321 left the game
+[22:32:38] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
+[22:32:38] [Server thread/INFO]: Thaliazhu left the game

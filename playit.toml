@@ -1,4 +1,4 @@
-last_update = 1657901372827
+last_update = 1658344858793
 ping_targets = [
     '147.185.221.1:5530',
     '23.133.216.1:5530',
@@ -11,4 +11,4 @@ name = 'Minecraft Server'
 proto = 'tcp'
 tunnel_ip = '147.185.221.180'
 tunnel_from_port = 34076
-local_port = 25560
+local_port = 25563
