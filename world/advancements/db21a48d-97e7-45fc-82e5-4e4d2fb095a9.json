@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-07-21 20:21:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-07-15 12:39:00 -0400"
@@ -1310,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-07-21 20:38:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2022-07-15 12:36:03 -0400"
@@ -2165,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2022-07-21 20:38:20 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2022-07-15 12:33:59 -0400"
@@ -2300,6 +2318,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-15 13:33:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-07-21 20:21:38 -0400"
     },
     "done": true
   },
