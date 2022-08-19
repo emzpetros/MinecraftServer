@@ -1,0 +1,14 @@
+last_update = 1658344858793
+ping_targets = [
+    '147.185.221.1:5530',
+    '23.133.216.1:5530',
+]
+refresh_from_api = true
+secret_key = 'c4e8d4cdba76d761442663bedd96b8828eba6bd75581b6641205fb14d75be2af'
+
+[[mappings]]
+name = 'Minecraft Server'
+proto = 'tcp'
+tunnel_ip = '147.185.221.180'
+tunnel_from_port = 34076
+local_port = 25563

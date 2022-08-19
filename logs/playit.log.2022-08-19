@@ -1,0 +1,14 @@
+2022-08-19T15:49:18.378624Z  INFO agent: Starting UI
+2022-08-19T15:49:18.550214Z  INFO agent::agent_config: opening important user notice in browser url="https://playit.gg/download#upgrade-notice"
+2022-08-19T15:49:28.738141Z  INFO agent::application: agent config is prepared, checking for tunnels
+2022-08-19T15:49:28.809660Z  INFO agent::tunnel_client: tunnel client starting control_addr=209.25.140.1:5523
+2022-08-19T15:49:31.844046Z  INFO agent::tunnel_client: resend request request_id=0
+2022-08-19T15:49:31.903000Z  INFO agent::application: program registered details=AgentRegistered { account_id: 50890, session_id: 96, session_timestamp: 1660924168978, signature: [31, 135, 21, 128, 234, 159, 98, 168, 61, 13, 14, 83, 211, 130, 199, 200, 52, 96, 76, 97, 100, 139, 201, 53, 202, 23, 56, 26, 65, 218, 93, 67] }
+2022-08-19T15:49:31.903082Z  INFO agent::application: queue claim port lease claim=ClaimLease { ip: 147.185.221.180, from_port: 34076, to_port: 34077, proto: Tcp }
+2022-08-19T15:49:31.979355Z  INFO agent::tunnel_client: setup udp channel v4 details=SetupUdpChannelDetailsV4 { tunnel_addr: 209.25.140.2:5512, token: [0, 0, 0, 0, 0, 0, 198, 202, 0, 0, 0, 0, 0, 0, 0, 96, 98, 255, 177, 11, 111, 193, 130, 156, 116, 174, 205, 158, 26, 14, 241, 92, 244, 137, 36, 221, 252, 137, 78, 157, 187, 231, 251, 64, 34, 137, 234, 58, 202, 201, 45, 81, 208, 31, 230, 131, 13, 220, 231, 129] }
+2022-08-19T15:49:32.115815Z  INFO agent::agent_config: updating config
+2022-08-19T15:49:32.116453Z  INFO agent::application: queue claim port lease claim=ClaimLease { ip: 147.185.221.180, from_port: 34076, to_port: 34077, proto: Tcp }
+2022-08-19T15:49:32.745288Z  INFO ping task: agent::ping_task: got pong remote=147.185.221.1 status=PingStatus { ping: 29, tunnel_server_id: 8753 }
+2022-08-19T15:49:32.745348Z  INFO ping task: agent::ping_task: got pong remote=23.133.216.1 status=PingStatus { ping: 131, tunnel_server_id: 8761 }
+2022-08-19T15:49:36.759753Z  INFO ping task: agent::ping_task: got pong remote=23.133.216.1 status=PingStatus { ping: 131, tunnel_server_id: 8761 }
+2022-08-19T15:49:37.039747Z  INFO agent::application: got UDP establish response
