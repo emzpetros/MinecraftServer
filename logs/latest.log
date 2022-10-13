@@ -1,31 +1,49 @@
-[11:48:36] [ServerMain/INFO]: Building unoptimized datafixer
-[11:48:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:48:38] [ServerMain/INFO]: Loaded 7 recipes
-[11:48:39] [ServerMain/INFO]: Loaded 1179 advancements
-[11:48:39] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[11:48:39] [Server thread/INFO]: Loading properties
-[11:48:39] [Server thread/INFO]: Default game type: SURVIVAL
-[11:48:39] [Server thread/INFO]: Generating keypair
-[11:48:40] [Server thread/INFO]: Starting Minecraft server on *:25563
-[11:48:40] [Server thread/INFO]: Using default channel type
-[11:48:40] [Server thread/INFO]: Preparing level "world"
-[11:48:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:48:44] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[11:48:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[11:48:45] [Worker-Main-7/INFO]: Preparing spawn area: 24%
-[11:48:45] [Worker-Main-15/INFO]: Preparing spawn area: 97%
-[11:48:45] [Server thread/INFO]: Time elapsed: 5510 ms
-[11:48:45] [Server thread/INFO]: Done (5.691s)! For help, type "help"
-[11:50:14] [User Authenticator #1/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
-[11:50:15] [Server thread/INFO]: Thaliazhu[/127.0.0.1:64237] logged in with entity id 125 at (-134.78971763002784, 63.0, 2.3396373440496703)
-[11:50:15] [Server thread/INFO]: Thaliazhu joined the game
-[11:50:31] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
-[11:50:31] [Server thread/INFO]: Thaliazhu left the game
+[12:55:02] [ServerMain/INFO]: Building unoptimized datafixer
+[12:55:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:55:04] [ServerMain/INFO]: Loaded 7 recipes
+[12:55:05] [ServerMain/INFO]: Loaded 1179 advancements
+[12:55:05] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[12:55:05] [Server thread/INFO]: Loading properties
+[12:55:05] [Server thread/INFO]: Default game type: SURVIVAL
+[12:55:05] [Server thread/INFO]: Generating keypair
+[12:55:06] [Server thread/INFO]: Starting Minecraft server on *:25563
+[12:55:06] [Server thread/INFO]: Using default channel type
+[12:55:06] [Server thread/INFO]: Preparing level "world"
+[12:55:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:55:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:55:11] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[12:55:11] [Server thread/INFO]: Time elapsed: 4967 ms
+[12:55:11] [Server thread/INFO]: Done (5.198s)! For help, type "help"
+[12:56:20] [User Authenticator #1/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
+[12:56:20] [Server thread/INFO]: TacoBelle321[/127.124.214.173:59150] logged in with entity id 149 at (-140.38175369381364, 63.0, 0.8538819043707893)
+[12:56:20] [Server thread/INFO]: TacoBelle321 joined the game
+[12:57:14] [User Authenticator #2/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
+[12:57:14] [Server thread/INFO]: Thaliazhu[/127.0.0.1:59205] logged in with entity id 448 at (-134.78971763002784, 63.0, 2.3396373440496703)
+[12:57:14] [Server thread/INFO]: Thaliazhu joined the game
+[13:13:50] [Server thread/INFO]: Thaliazhu has made the advancement [Ice Bucket Challenge]
+[13:16:46] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
+[13:16:46] [Server thread/INFO]: Thaliazhu left the game
+[13:16:48] [User Authenticator #3/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
+[13:16:48] [Server thread/INFO]: Thaliazhu[/127.0.0.1:59814] logged in with entity id 9339 at (2064.7423468570146, 73.0, 48.41988271788264)
+[13:16:48] [Server thread/INFO]: Thaliazhu joined the game
+[13:24:30] [Server thread/INFO]: Villager btp['Villager'/10011, l='ServerLevel[world]', x=2361.30, y=119.04, z=147.50] died, message: 'Villager froze to death'
+[14:03:29] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
+[14:03:29] [Server thread/INFO]: TacoBelle321 left the game
+[14:05:55] [User Authenticator #4/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
+[14:05:55] [Server thread/INFO]: TacoBelle321[/127.124.214.173:61614] logged in with entity id 32701 at (-142.5, 63.0, 8.5)
+[14:05:55] [Server thread/INFO]: TacoBelle321 joined the game
+[14:44:28] [Server thread/INFO]: TacoBelle321 has made the advancement [We Need to Go Deeper]
+[14:55:39] [Server thread/WARN]: Boat (vehicle of Thaliazhu) moved wrongly! 0.29770363735551086
+[15:01:26] [Server thread/INFO]: Thaliazhu has made the advancement [We Need to Go Deeper]
+[15:02:29] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
+[15:02:29] [Server thread/INFO]: TacoBelle321 left the game
+[15:02:38] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
+[15:02:38] [Server thread/INFO]: Thaliazhu left the game
