@@ -1,4 +1,4 @@
-last_update = 1669748484762
+last_update = 1669779531525
 api_url = "https://api.playit.cloud/agent"
 ping_target_addresses = ["23.133.216.1:5530", "ping.playit.gg"]
 control_address = "control.ply.gg"
