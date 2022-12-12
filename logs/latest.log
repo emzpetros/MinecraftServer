@@ -1,88 +1,67 @@
-[21:32:42] [ServerMain/INFO]: Building unoptimized datafixer
-[21:32:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:32:45] [ServerMain/INFO]: Loaded 7 recipes
-[21:32:45] [ServerMain/INFO]: Loaded 1179 advancements
-[21:32:45] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[21:32:45] [Server thread/INFO]: Loading properties
-[21:32:45] [Server thread/INFO]: Default game type: SURVIVAL
-[21:32:45] [Server thread/INFO]: Generating keypair
-[21:32:45] [Server thread/INFO]: Starting Minecraft server on *:25563
-[21:32:45] [Server thread/INFO]: Using default channel type
-[21:32:45] [Server thread/INFO]: Preparing level "world"
-[21:32:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:32:48] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:32:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:32:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:32:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:32:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:32:49] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[21:32:49] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[21:32:50] [Worker-Main-5/INFO]: Preparing spawn area: 72%
-[21:32:50] [Server thread/INFO]: Time elapsed: 3650 ms
-[21:32:50] [Server thread/INFO]: Done (4.270s)! For help, type "help"
-[21:39:14] [User Authenticator #1/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
-[21:39:14] [Server thread/INFO]: Thaliazhu[/127.0.0.1:51053] logged in with entity id 62 at (399.34348482275226, 63.0, -384.49347882978014)
-[21:39:15] [Server thread/INFO]: Thaliazhu joined the game
-[21:40:31] [User Authenticator #2/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
-[21:40:31] [Server thread/INFO]: TacoBelle321[/127.124.214.173:51096] logged in with entity id 465 at (362.3253684676459, 64.0, -383.7894403613322)
-[21:40:31] [Server thread/INFO]: TacoBelle321 joined the game
-[22:02:54] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-391,-42,-200],type:"minecraft:block"}}]
-[22:03:06] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-393,-41,-222],type:"minecraft:block"}}]
-[22:03:06] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-392,-41,-223],type:"minecraft:block"}}]
-[22:03:06] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-372,-21,-222],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-405,-30,-229],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-394,-42,-226],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-394,-41,-230],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-453,-38,-233],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-453,-39,-232],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-443,-42,-231],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-438,-42,-233],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-442,-41,-234],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-440,-41,-235],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-377,-43,-234],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-377,-42,-230],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-369,-24,-227],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-377,-43,-235],type:"minecraft:block"}}]
-[22:03:09] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-376,-43,-236],type:"minecraft:block"}}]
-[22:05:26] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-249,-48,-242],type:"minecraft:block"}}]
-[22:05:26] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-252,-51,-247],type:"minecraft:block"}}]
-[22:05:49] [Server thread/WARN]: TacoBelle321 moved too quickly! -9.348693351783083,-2.0784000015258783,3.289477214807917
-[22:05:49] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-402,-30,-245],type:"minecraft:block"}}]
-[22:05:57] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
-[22:05:57] [Server thread/INFO]: TacoBelle321 left the game
-[22:06:12] [User Authenticator #3/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
-[22:06:12] [Server thread/INFO]: TacoBelle321[/127.124.214.173:52052] logged in with entity id 5577 at (-210.34368625143006, -47.0, -53.61401500194344)
-[22:06:12] [Server thread/INFO]: TacoBelle321 joined the game
-[22:06:18] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-394,-47,-265],type:"minecraft:block"}}]
-[22:06:18] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-397,-24,-258],type:"minecraft:block"}}]
-[22:06:18] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-405,-47,-267],type:"minecraft:block"}}]
-[22:06:18] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-404,-43,-272],type:"minecraft:block"}}]
-[22:06:21] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-429,-43,-249],type:"minecraft:block"}}]
-[22:06:21] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-422,-41,-241],type:"minecraft:block"}}]
-[22:06:21] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-430,-44,-251],type:"minecraft:block"}}]
-[22:06:21] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-431,-42,-248],type:"minecraft:block"}}]
-[22:06:42] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-448,-50,-262],type:"minecraft:block"}}]
-[22:06:42] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-447,-53,-264],type:"minecraft:block"}}]
-[22:06:42] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-447,-53,-263],type:"minecraft:block"}}]
-[22:06:42] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-445,-52,-262],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-385,-38,-282],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-387,-37,-282],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-392,-44,-285],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-392,-44,-286],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-395,-47,-286],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-394,-44,-285],type:"minecraft:block"}}]
-[22:06:57] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-384,-42,-280],type:"minecraft:block"}}]
-[22:08:54] [Server thread/INFO]: TacoBelle321 has made the advancement [Tactical Fishing]
-[22:09:27] [Server thread/INFO]: Thaliazhu has made the advancement [Tactical Fishing]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-449,-51,-262],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-452,-54,-264],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-451,-52,-269],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-451,-52,-268],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-452,-24,-270],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-451,-48,-276],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-451,-51,-273],type:"minecraft:block"}}]
-[22:10:17] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-452,-51,-275],type:"minecraft:block"}}]
-[23:02:37] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
-[23:02:37] [Server thread/INFO]: TacoBelle321 left the game
-[23:02:40] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
-[23:02:40] [Server thread/INFO]: Thaliazhu left the game
+[21:46:30] [ServerMain/INFO]: Building unoptimized datafixer
+[21:46:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:46:33] [ServerMain/INFO]: Loaded 7 recipes
+[21:46:33] [ServerMain/INFO]: Loaded 1179 advancements
+[21:46:33] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[21:46:33] [Server thread/INFO]: Loading properties
+[21:46:33] [Server thread/INFO]: Default game type: SURVIVAL
+[21:46:33] [Server thread/INFO]: Generating keypair
+[21:46:33] [Server thread/INFO]: Starting Minecraft server on *:25563
+[21:46:33] [Server thread/INFO]: Using default channel type
+[21:46:34] [Server thread/INFO]: Preparing level "world"
+[21:46:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:46:37] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:46:37] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:46:37] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:46:37] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:46:37] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:46:37] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:46:37] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:46:38] [Worker-Main-12/INFO]: Preparing spawn area: 52%
+[21:46:38] [Server thread/INFO]: Time elapsed: 3760 ms
+[21:46:38] [Server thread/INFO]: Done (4.367s)! For help, type "help"
+[21:48:13] [User Authenticator #1/INFO]: UUID of player TacoBelle321 is b7cb2947-099e-4ede-8f1e-dd398a5abf64
+[21:48:13] [Server thread/INFO]: TacoBelle321[/127.124.214.173:54903] logged in with entity id 165 at (-139.280319787807, 63.0, 0.5194250724727139)
+[21:48:13] [Server thread/INFO]: TacoBelle321 joined the game
+[21:55:01] [User Authenticator #2/INFO]: UUID of player Thaliazhu is db21a48d-97e7-45fc-82e5-4e4d2fb095a9
+[21:55:01] [Server thread/INFO]: Thaliazhu[/127.0.0.1:55179] logged in with entity id 1293 at (-145.26688825470805, 63.0, 7.044704484549931)
+[21:55:01] [Server thread/INFO]: Thaliazhu joined the game
+[21:58:55] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-142,-42,-450],type:"minecraft:block"}}]
+[21:58:55] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-143,-42,-449],type:"minecraft:block"}}]
+[22:03:20] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;339,-47,-654],type:"minecraft:block"}}]
+[22:03:20] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;505,-54,-645],type:"minecraft:block"}}]
+[22:03:20] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;505,-53,-644],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.8088555f,range:8,source:{pos:[I;343,-43,-667],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.2525544f,range:8,source:{pos:[I;342,-45,-668],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.1278584f,range:8,source:{pos:[I;342,-44,-660],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.1942415f,range:8,source:{pos:[I;341,-46,-661],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.1583166f,range:8,source:{pos:[I;341,-46,-660],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.2317653f,range:8,source:{pos:[I;342,-44,-659],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.016827f,range:8,source:{pos:[I;342,-44,-662],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.439151f,range:8,source:{pos:[I;341,-46,-662],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.9679413f,range:8,source:{pos:[I;343,-43,-666],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;331,-53,-664],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;330,-53,-662],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;298,-43,-671],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;296,-48,-660],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;295,-48,-661],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;298,-48,-663],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;297,-49,-665],type:"minecraft:block"}}]
+[22:03:23] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;276,-41,-660],type:"minecraft:block"}}]
+[22:03:26] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;322,-38,-677],type:"minecraft:block"}}]
+[22:03:26] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.527304f,range:8,source:{pos:[I;344,-32,-676],type:"minecraft:block"}}]
+[22:03:26] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.321123f,range:8,source:{pos:[I;343,-32,-678],type:"minecraft:block"}}]
+[22:03:26] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;317,-43,-677],type:"minecraft:block"}}]
+[22:17:51] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=315, y=68, z=-359} gp{x=315, y=66, z=-361}
+[22:24:38] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=435, y=63, z=-399} gp{x=437, y=62, z=-400}
+[22:25:35] [Server thread/WARN]: TacoBelle321 moved too quickly! 3.5241766928750167,-0.41999998688697815,-9.45655317105934
+[22:38:03] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-119,-42,-522],type:"minecraft:block"}}]
+[22:38:03] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-116,-42,-524],type:"minecraft:block"}}]
+[22:38:03] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-120,-43,-517],type:"minecraft:block"}}]
+[22:38:03] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-122,-41,-527],type:"minecraft:block"}}]
+[22:38:03] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-117,-41,-525],type:"minecraft:block"}}]
+[22:38:45] [Server thread/WARN]: Boat (vehicle of Thaliazhu) moved wrongly! 1.5319931982892285
+[22:43:10] [Server thread/INFO]: TacoBelle321 lost connection: Disconnected
+[22:43:10] [Server thread/INFO]: TacoBelle321 left the game
+[22:43:12] [Server thread/INFO]: Thaliazhu lost connection: Disconnected
+[22:43:12] [Server thread/INFO]: Thaliazhu left the game
