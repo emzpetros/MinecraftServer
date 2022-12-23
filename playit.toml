@@ -1,4 +1,4 @@
-last_update = 1670898467073
+last_update = 1671765588063
 api_url = "https://api.playit.cloud/agent"
 ping_target_addresses = ["23.133.216.1:5530", "ping.playit.gg"]
 control_address = "control.ply.gg"
@@ -12,4 +12,4 @@ name = "Minecraft Server"
 proto = "tcp"
 tunnel_ip = "147.185.221.180"
 tunnel_from_port = 34076
-local_port = 25563
+local_port = 25564
